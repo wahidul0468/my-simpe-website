@@ -1,0 +1,14 @@
+p{
+    background-color:aquamarine;
+    border: 5px solid black;
+    border-radius: 3px;
+    text-align: justify; 
+    padding: 10px;
+}
+h3{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ol{
+    color: blueviolet;
+}
